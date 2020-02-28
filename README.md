@@ -5,4 +5,4 @@
 3. [Перегрузка операторов](https://github.com/IISergeyII/LabsITMO2Sem/tree/master/Lab03)
 4. [Виртуальные функции](https://github.com/IISergeyII/LabsITMO2Sem/tree/master/Lab04)
 5. [Шаблоны, исключения](https://github.com/IISergeyII/LabsITMO2Sem/tree/master/Lab05)
-
+6. [Обобщенные алгоритмы](https://github.com/IISergeyII/LabsITMO2Sem/tree/master/Lab06)
